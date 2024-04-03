@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "801147496058",
+    "project_id": "coallabcrud",
+    "storage_bucket": "coallabcrud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:801147496058:android:f42cf5d1cefc48d11a7dc3",
+        "android_client_info": {
+          "package_name": "com.example.coallab"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8rKRxOvgALtBCGXuj1JoX7FwDtmSWq9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
